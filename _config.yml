@@ -24,13 +24,13 @@ repository               : "hassaansk/hassaansk.github.io"
 author:
   # Biographic information
   avatar           : "hassaan.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Hassaan Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Human"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  #employer         : "Red Brick University"
+  #uri              : # URL
+  #email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL

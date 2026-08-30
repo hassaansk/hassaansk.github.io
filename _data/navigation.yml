@@ -11,8 +11,8 @@ main:
  #- title: "Publications"
  #   url: /publications/
 
-  - title: "Resume"
-    url: \files\Resume.pdf   
+ # - title: "Talks"
+  #  url: /talks/    
 
  # - title: "Teaching"
   #  url: /teaching/    
@@ -20,11 +20,11 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Musings"
-    url: /year-archive/
+  # title: "Blog Posts"
+  #  url: /year-archive/
     
-  # title: "Resume"
-  # url: \files\Resume.pdf
+  - title: "CV"
+    url: \files\Resume.pdf
     
   # - title: "CV"
   #   url: /cv-json/

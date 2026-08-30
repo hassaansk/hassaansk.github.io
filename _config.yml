@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Hassaan Khan"
+title                    : "Hassaan's Homepage'"
 title_separator          : "-"
 name                     : &name "Hassaan Khan"
 description              : &description "Hassaan Khan"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "hassaan.jpg"
   name             : "Hassaan Khan"
   pronouns         : # example: "she/her"  
-  bio              : "Human"
+  bio              : "incredible things are happening"
   location         : "Earth"
   #employer         : "Red Brick University"
   #uri              : # URL

@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-hi. this website is not very complete at the moment as you might be able to tell.
-i will (hopefully) fix that soon. until then please enjoy some boilerplate, for your reading pleasure ofc:
+Hi. this website is not very complete at the moment as you might be able to tell.
+i will (hopefully) fix that soon. until then please enjoy some boilerplate.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

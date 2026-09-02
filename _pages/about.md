@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🚧 Kapital Improvement Project"
+title: "🚧 Capital Improvement Project"
 author_profile: true
 redirect_from: 
   - /about/
